@@ -1,4 +1,4 @@
-# MOVIE RATING SITE
+# Movie Rating Site
 
 ## To Use
 
