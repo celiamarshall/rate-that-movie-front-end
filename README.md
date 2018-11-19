@@ -9,8 +9,8 @@
 
 ## Routes connecting to a backend in this project:  
  
-- GET /movies   _lists all movies_
-- POST /movies  _create a movie_
-- GET /movies/:id  _show a specific movie_
-- PUT /movies/:id _edit a movie_
-- DELETE /movies/:id _delete a movie_
+- GET _lists all movies_
+- POST _create a movie_
+- GET _show a specific movie_
+- PUT _edit a movie_
+- DELETE _delete a movie_
