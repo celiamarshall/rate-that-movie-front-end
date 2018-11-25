@@ -1,5 +1,5 @@
 const axios = require('axios')
-const BASE_URL = 'http://localhost:3000/movies'
+const BASE_URL = 'https://intense-hamlet-17480.herokuapp.com/movies'
 
 function getMovies() {
   return axios.get(BASE_URL)
