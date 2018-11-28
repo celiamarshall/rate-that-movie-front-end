@@ -14,3 +14,6 @@
 - GET _show a specific movie_
 - PUT _edit a movie_
 - DELETE _delete a movie_
+
+## Deployed Site 
+http://rate-that-movie.surge.sh/

@@ -16,7 +16,6 @@ function init() {
 
   data.getMovie(queryString.id)
   .then( (response) => {
-    console.log(response)
     titleEdit.value = response.data.data.title
     directorEdit.value = response.data.data.director
     yearEdit.value = response.data.data.year
